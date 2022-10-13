@@ -1,5 +1,7 @@
 ## Hi there, I'm Pablo! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
- <em>I'm a Certified Tech Developer student at <a href=https://www.digitalhouse.com/ar/productos/programacion/certified-tech-developer>Digital House</a>. Also, i'm psychologist and sport psychologist.</em>
+ <em>I'm a Certified Tech Developer student at <a href=https://www.digitalhouse.com/ar/productos/programacion/certified-tech-developer>Digital House</a>. Also, i'm sport psychologist (and a passionate boxing fan by the way)<br>
+ One of my dreams its merge both areas (software and sports) to developing solutions and contribute to the future of the sports</em><br>
+ 
 ### Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m currently a Certified Tech Developer student at <a href=https://www.digitalhouse.com/ar/productos/programacion/certified-tech-developer>Digital House</a>; 
@@ -13,7 +15,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 
-### Contact me:
 
 <hr>
 
