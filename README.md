@@ -1,6 +1,6 @@
 ## Hi there, I'm Pablo! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
  <em>I'm a Certified Tech Developer student at <a href=https://www.digitalhouse.com/ar/productos/programacion/certified-tech-developer>Digital House</a>. Also, i'm sport psychologist (and a passionate boxing fan by the way 🥊😅)<br>
- One of my future goals its merge both areas (software and sports) to developing solutions and contribute to the future of the sports.💻🧠🏀 </em><br>
+ One of my future goals its merge both areas (software and sports) to developing solutions and contribute to the future of the sports.</em><br>
  
 ### Talking about Personal Stuffs:
 
