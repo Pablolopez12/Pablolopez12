@@ -4,9 +4,9 @@
  
 ### Talking about personal stuffs:
 
-- 👨‍💻 I'm currently a Certified Tech Developer student at <a href=https://www.digitalhouse.com/ar/productos/programacion/certified-tech-developer>Digital House</a>;
+- 👨‍💻 I'm currently a Certified Tech Developer student at <a href=https://www.digitalhouse.com/ar/productos/programacion/certified-tech-developer>Digital House</a>
 - 🌱 I'm learning everything about Frontend and Backend technologies 
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I am happy to help
 - 📫 Please email me if you have any questions. lic.pablolopezgabriel12@gmail.com<br><br>
 
 ### 🛠 My tech stack
